@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6700
     wikipedia: http://pt.wikipedia.org/wiki/Júlio_Dinis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29120#A-Morgadinha-dos-Cannaviaes
 gutenberg_bookshelf: PT Romance
 gutenberg_issued: '2009-06-14'
 gutenberg_type: Text
